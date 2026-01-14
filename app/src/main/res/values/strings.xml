@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Okuyucu</string>
+    
+    <!-- Menu -->
+    <string name="open_file">Dosya Aç</string>
+    <string name="about">Hakkında</string>
+    
+    <!-- Messages -->
+    <string name="permission_granted">Depolama izni verildi</string>
+    <string name="permission_denied">Depolama izni reddedildi. PDF dosyalarını açabilmek için izin gereklidir.</string>
+    <string name="error_no_file">Dosya seçilmedi</string>
+    <string name="error_loading_pdf">PDF yüklenirken hata oluştu</string>
+    <string name="error_page">Sayfa hatası</string>
+    <string name="pdf_loaded">PDF yüklendi:</string>
+    <string name="pages">sayfa</string>
+    <string name="page">Sayfa</string>
+    <string name="no_pdf_loaded">PDF yüklenmedi</string>
+    <string name="about_message">PDF Okuyucu v1.0\nHuawei T9 Tablet için geliştirilmiştir.\n\nÖzellikler:\n• PDF dosyalarını açma ve görüntüleme\n• Sayfa kaydırma\n• Yakınlaştırma/Uzaklaştırma\n• Sayfa navigasyonu</string>
+    
+    <!-- Colors -->
+    <color name="page_info_background">#E0E0E0</color>
+    <color name="page_info_text">#000000</color>
+</resources>
